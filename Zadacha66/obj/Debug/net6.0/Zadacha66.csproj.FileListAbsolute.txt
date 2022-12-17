@@ -1,0 +1,15 @@
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\bin\Debug\net6.0\Zadacha66.exe
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\bin\Debug\net6.0\Zadacha66.deps.json
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\bin\Debug\net6.0\Zadacha66.runtimeconfig.json
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\bin\Debug\net6.0\Zadacha66.dll
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\bin\Debug\net6.0\Zadacha66.pdb
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\obj\Debug\net6.0\Zadacha66.csproj.AssemblyReference.cache
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\obj\Debug\net6.0\Zadacha66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\obj\Debug\net6.0\Zadacha66.AssemblyInfoInputs.cache
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\obj\Debug\net6.0\Zadacha66.AssemblyInfo.cs
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\obj\Debug\net6.0\Zadacha66.csproj.CoreCompileInputs.cache
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\obj\Debug\net6.0\Zadacha66.dll
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\obj\Debug\net6.0\refint\Zadacha66.dll
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\obj\Debug\net6.0\Zadacha66.pdb
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\obj\Debug\net6.0\Zadacha66.genruntimeconfig.cache
+C:\Users\SmVal\Desktop\Djmzalanie9\Zadacha66\obj\Debug\net6.0\ref\Zadacha66.dll
